@@ -71,7 +71,7 @@ public class ConnexionId extends JFrame implements ActionListener {
 		   String user = userTextField.getText();
 		   String password = passwordField.getText();
 		   frame.setVisible(false);
-		   AcceuilInterface ai = new AcceuilInterface();
+		   Interface ai = new AcceuilInterface();
 		   
 	   }
 	
